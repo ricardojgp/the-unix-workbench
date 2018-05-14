@@ -235,3 +235,4 @@
 - Tom Zu
 - Bahar Paydar
 - Nikolay Miller
+- Ricardo Pimenta
